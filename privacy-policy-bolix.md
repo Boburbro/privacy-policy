@@ -6,7 +6,7 @@
 
 Bolix ("the App", "we", "us") is a parental control and family safety application operated by **BOLIX MCHJ** (a limited liability company registered in the Republic of Uzbekistan). This policy explains what data the App collects, why, how it is protected, and what choices you have.
 
-Contact: **support@bolix.uz**
+Contact: **info@bolix.uz**
 
 ---
 
@@ -110,15 +110,15 @@ Data is transmitted over HTTPS. Chat messages and sensitive data are encrypted o
 | Consent and audit records | 5 years |
 | Account and family data | While the account exists |
 
-**To delete your account and data**, email **support@bolix.uz** from the phone number or email used for sign-in, or use the delete option in the App if available. We will delete or anonymize personal data within 30 days, except records we must keep by law. A parent can also request deletion of their child's data. Removing the child's device from the family stops further collection.
+**To delete your account and data**, email **info@bolix.uz** from the phone number or email used for sign-in, or use the delete option in the App if available. We will delete or anonymize personal data within 30 days, except records we must keep by law. A parent can also request deletion of their child's data. Removing the child's device from the family stops further collection.
 
 ## 8. Children's privacy
 
-The Child mode is used by children only with a parent or guardian who sets it up and controls it. Parents can review, request correction of, or request deletion of their child's data at any time by contacting **support@bolix.uz**. We do not ask a child for more data than is needed for the features above, and we do not show targeted advertising to children.
+The Child mode is used by children only with a parent or guardian who sets it up and controls it. Parents can review, request correction of, or request deletion of their child's data at any time by contacting **info@bolix.uz**. We do not ask a child for more data than is needed for the features above, and we do not show targeted advertising to children.
 
 ## 9. Your rights
 
-You can ask us to access, correct, delete or restrict the use of your personal data, and to withdraw consent, by contacting **support@bolix.uz**. We process requests in accordance with the Law of the Republic of Uzbekistan "On Personal Data".
+You can ask us to access, correct, delete or restrict the use of your personal data, and to withdraw consent, by contacting **info@bolix.uz**. We process requests in accordance with the Law of the Republic of Uzbekistan "On Personal Data".
 
 ## 10. Changes
 
@@ -127,7 +127,7 @@ We may update this policy. The new version will be posted on this page with a ne
 ## 11. Contact
 
 **BOLIX MCHJ**
-Email: **support@bolix.uz**
+Email: **info@bolix.uz**
 
 ---
 
@@ -137,7 +137,7 @@ Email: **support@bolix.uz**
 
 Bolix ("Ilova", "biz") — **BOLIX MChJ** (O'zbekiston Respublikasida ro'yxatdan o'tgan mas'uliyati cheklangan jamiyat) tomonidan taqdim etiladigan ota-onalar nazorati va oilaviy xavfsizlik ilovasi. Ushbu siyosat Ilova qanday ma'lumot yig'ishi, nima uchun, qanday himoyalanishi va sizda qanday tanlov borligini tushuntiradi.
 
-Aloqa: **support@bolix.uz**
+Aloqa: **info@bolix.uz**
 
 ## 1. Ilova qanday ishlaydi
 
@@ -215,15 +215,15 @@ Ma'lumot HTTPS orqali uzatiladi. Chat xabarlari va sezgir ma'lumotlar serverlard
 | Rozilik va audit yozuvlari | 5 yil |
 | Akkaunt va oila ma'lumoti | Akkaunt mavjud bo'lguncha |
 
-**Akkaunt va ma'lumotlarni o'chirish uchun** kirishda ishlatilgan raqamdan **support@bolix.uz** ga yozing yoki Ilovada mavjud bo'lsa, o'chirish tugmasidan foydalaning. Shaxsiy ma'lumotlarni 30 kun ichida o'chiramiz yoki anonim qilamiz, qonun bo'yicha saqlashimiz shart bo'lgan yozuvlar bundan mustasno. Ota-ona bolasining ma'lumotini o'chirishni ham so'rashi mumkin. Bola qurilmasini oiladan olib tashlash keyingi ma'lumot yig'ilishini to'xtatadi.
+**Akkaunt va ma'lumotlarni o'chirish uchun** kirishda ishlatilgan raqamdan **info@bolix.uz** ga yozing yoki Ilovada mavjud bo'lsa, o'chirish tugmasidan foydalaning. Shaxsiy ma'lumotlarni 30 kun ichida o'chiramiz yoki anonim qilamiz, qonun bo'yicha saqlashimiz shart bo'lgan yozuvlar bundan mustasno. Ota-ona bolasining ma'lumotini o'chirishni ham so'rashi mumkin. Bola qurilmasini oiladan olib tashlash keyingi ma'lumot yig'ilishini to'xtatadi.
 
 ## 8. Bolalar maxfiyligi
 
-Bola rejimidan bolalar faqat uni sozlaydigan va nazorat qiladigan ota-ona yoki vasiy bilan birga foydalanadi. Ota-onalar bolasining ma'lumotini istalgan vaqtda ko'rib chiqish, tuzatish yoki o'chirishni **support@bolix.uz** orqali so'rashi mumkin. Bolalardan yuqoridagi funksiyalar uchun kerak bo'lganidan ortiq ma'lumot so'ramaymiz va ularga maqsadli reklama ko'rsatmaymiz.
+Bola rejimidan bolalar faqat uni sozlaydigan va nazorat qiladigan ota-ona yoki vasiy bilan birga foydalanadi. Ota-onalar bolasining ma'lumotini istalgan vaqtda ko'rib chiqish, tuzatish yoki o'chirishni **info@bolix.uz** orqali so'rashi mumkin. Bolalardan yuqoridagi funksiyalar uchun kerak bo'lganidan ortiq ma'lumot so'ramaymiz va ularga maqsadli reklama ko'rsatmaymiz.
 
 ## 9. Sizning huquqlaringiz
 
-Shaxsiy ma'lumotlaringizga kirish, ularni tuzatish, o'chirish yoki ishlatishni cheklashni so'rash va rozilikni qaytarib olish uchun **support@bolix.uz** ga murojaat qiling. So'rovlarni O'zbekiston Respublikasining "Shaxsga doir ma'lumotlar to'g'risida"gi qonuniga muvofiq ko'rib chiqamiz.
+Shaxsiy ma'lumotlaringizga kirish, ularni tuzatish, o'chirish yoki ishlatishni cheklashni so'rash va rozilikni qaytarib olish uchun **info@bolix.uz** ga murojaat qiling. So'rovlarni O'zbekiston Respublikasining "Shaxsga doir ma'lumotlar to'g'risida"gi qonuniga muvofiq ko'rib chiqamiz.
 
 ## 10. O'zgarishlar
 
@@ -232,4 +232,4 @@ Siyosatni yangilashimiz mumkin. Yangi versiya shu sahifada yangi "Oxirgi yangila
 ## 11. Aloqa
 
 **BOLIX MChJ**
-Email: **support@bolix.uz**
+Email: **info@bolix.uz**
